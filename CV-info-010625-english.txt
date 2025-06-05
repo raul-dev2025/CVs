@@ -46,6 +46,7 @@ and increased sales, adding value as a trust chain.
 GRADE:
 	- Comercial manager and Marketing(result: N++).
 	- Object-oriented programing(result: N++).
+	- Intermediate systems Technician. Vocational.
 Programing:
 	Linux Device Driver Model (LDDM).
 	- Command line environment(rpm, git, dkms, gedit, gcc, virsh).

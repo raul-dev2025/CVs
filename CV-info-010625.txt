@@ -46,6 +46,7 @@ aumetar las ventas aportando valor como cadena de confianza.
 Grado superior:
 	- Responsable comercial y Marketing(nota: N++).
 	- 3dMax, Programación Orientada a Objetos(nota: N++).
+	- Técnico de sistemas, grado medio. Vocacional.
 Programación:
 	Estudio Modelo de controlador de dispositivo de Linux(LDDM).
 		- Entorno cónsola(dkms, git, rpm, gedit, gcc, autotools, virsh).
