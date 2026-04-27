@@ -1,47 +1,65 @@
+.. rst-class:: cv-it-theme
+
 ======================
 IT - Raúl Vílchez Ruiz
 ======================
 
-
-*Frederic Mompou, 10, El Masnou - Barcelona* | *r4u1974@gmail.com* | `Perfil de GitHub <https://github.com/raul-dev2025>`_
+:Contacto: r4u1974@gmail.com
+:Web: https://raulvilchez.org
+:GitHub: https://github.com/raul-dev2025
 
 ----
 
+
 Resumen Profesional
--------------------
+===================
 
 Desarrollador y administrador de sistemas con una sólida trayectoria que abarca desde la programación web y la gestión de servidores Linux hasta roles comerciales y de gestión de almacén. Busco aplicar mi experiencia técnica y mi capacidad para resolver problemas en un entorno desafiante, contribuyendo al desarrollo de proyectos innovadores. Mi portafolio de proyectos demuestra mi habilidad en tecnologías como JavaScript, HTML/CSS, y la administración de entornos virtualizados.
 
 ----
 
 Habilidades Técnicas
---------------------
+====================
 
 * **Programación:** C/C++, Python, JavaScript, HTML5, CSS3, Ruby, SQL.
 * **Administración de Sistemas:** Linux (Red Hat), Administración de VMs (Virsh, QEMU), LVM, RAID, NAS, Apache, SSH, Git.
+* **Infraestructura y Almacenamiento:** Implementación de **IDM (Identity Management)** en arquitectura Maestro/Réplica. Gestión de almacenamiento optimizado con **VDO (Virtual Data Optimizer)** y LVM.
 * **Bases de Datos:** Gestión y mantenimiento de bases deatos, Data Warehouse.
 * **Herramientas y Tecnologías:** Git, Docker, Autotools, OpenGL, OpenAL.
 * **Idiomas:** Español (Nativo), Inglés (Competencia Profesional).
 
 ----
 
-Proyectos Personales Destacados
---------------------------------
+Infraestructura Crítica y Almacenamiento
+========================================
 
-**Proyecto 1 (Documentación Centralizada): `docs.raulvilchez.org`**
+**Entorno de Virtualización con Optimización VDO**:
+
+* **Descripción:** Implementación de un sistema de almacenamiento eficiente para entornos `libvirt`. Utilizo **VDO** sobre LVM para proporcionar deduplicación y compresión de datos en tiempo real, permitiendo un aprovisionamiento delgado (*thin provisioning*) de alta densidad.
+* **Detalle Técnico (Pool de Almacenamiento):**
+    * Configuración de un volumen lógico indexado (VDO) que expande la capacidad física (NVMe) a un almacenamiento virtual.
+    * Punto de montaje optimizado en ``/var/lib/virt_storage`` para el despliegue masivo de máquinas virtuales.
+* **Tecnologías:** RHEL/CentOS, VDO, LVM, Libvirt, NVMe.
+
+**Gestión de Identidad (IDM/FreeIPA)**:
+
+* **Descripción:** Despliegue de una infraestructura de gestión de identidades basada en arquitectura **Maestro-Réplica**.
+* **Funcionalidades:** Centralización de autenticación (Kerberos), políticas de acceso (LDAP), DNS y gestión de certificados (PKI) para asegurar la consistencia y alta disponibilidad de los servicios en el nodo de desarrollo.
+
+
+Proyectos Personales Destacados
+===============================
+
+**Documentación Centralizada**:
 
 * **Descripción:** Hub de documentación centralizado para todos mis proyectos, construido sobre el motor Read The Docs. Este sitio, alojado en un subdominio propio, sirve como un punto único de referencia para manuales técnicos, guías de usuario y notas de desarrollo, asegurando que la información sea accesible, versionada y esté bien organizada. El repositorio base es ``raul-dev2025.github.io``.
 * **Tecnologías Clave:** Python, Read The Docs, Sphinx, reStructuredText (reST), Git.
 * **Enlace:** `https://docs.raulvilchez.org/ <https://docs.raulvilchez.org/>`_
-
-**Proyecto 2: `raulDev-heliogabalo.io` (Entorno de Colaboración)**
-
+* **Entorno de colaborativo**: `raulDev-heliogabalo.io`
 * **Descripción:** Fork del proyecto principal (``heliogabalo.github.io``) utilizado para simular un entorno de trabajo colaborativo. A través de diferentes cuentas, demuestro la gestión de un flujo de trabajo realista en equipo, incluyendo `pull requests`, revisión de código y gestión de ramas (`branches`), validando mi capacidad para integrarme en equipos de desarrollo.
 * **Metodologías Clave:** Flujo de trabajo Git/GitHub, Pull Requests (PRs), Revisión de Código, Gestión de Ramas.
 * **Enlace al Repositorio:** `https://github.com/raul-dev2025/heliogabalo.github.io <https://github.com/raul-dev2025/heliogabalo.github.io>`_
-
-**Proyecto 3 (Web Profesional y Portafolio): `raulvilchez.org`**
-
+* **Web Profesional y Portafolio**: `raulvilchez.org`
 * **Descripción:** Mi web profesional y portafolio principal, concebida como un espacio comercial para la interacción con clientes. El sitio centraliza mi oferta de servicios (desarrollo, administración de sistemas), permite el contacto directo y muestra mi trabajo a través de los proyectos destacados. Actúa como el eje de mi presencia digital, con ``heliogabalo.github.io`` como repositorio base.
 * **Tecnologías Clave:** HTML5, CSS3, JavaScript, Git, GitHub Pages.
 * **Enlace:** `https://raulvilchez.org <https://raulvilchez.org>`_
@@ -49,7 +67,7 @@ Proyectos Personales Destacados
 ----
 
 Proyecto Profesional y Desarrollo Autónomo
-------------------------------------------
+==========================================
 
 Actualmente, dedico mi esfuerzo al desarrollo de un proyecto de negocio propio, utilizando mis repositorios de código como pilares estratégicos. Este trabajo se centra en:
 
@@ -62,7 +80,7 @@ Actualmente, dedico mi esfuerzo al desarrollo de un proyecto de negocio propio, 
 ----
 
 Trayectoria Profesional Previa
-------------------------------
+==============================
 
 * **Desarrollo y Sistemas (Autónomo):** Administrador de VMs (Linux) y desarrollador web.
 * **Roles Técnicos y Administrativos:** Experiencia en soporte técnico, gestión de bases de datos, administración de compras y logística en empresas como INFORGLOB, TECSYS DATA BASES y SURIS INGENIERIA.
