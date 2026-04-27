@@ -14,7 +14,7 @@ Experiencia Profesional
 =======================
 
 Gestión y Liderazgo de Centros
------------------------------
+------------------------------
 **ELECTRO STOCKS (BCN / Palma de Mallorca)**
 *Responsable de Almacén*
 

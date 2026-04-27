@@ -1,0 +1,16 @@
+# Entornos virtuales
+.env
+
+# Resultados de compilación de Sphinx
+_build/
+build/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+.git-msg
