@@ -1,0 +1,76 @@
+.info dl.field-list {
+  display: grid;
+  grid-template-columns: 120px auto;
+  gap: 5px;
+  background: #ebebeb;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Texto etiquetas directivas */
+.info dl.field-list dt {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+body {
+  line-height: 1.2;
+  font-size: 1em;
+}
+
+p,
+li {
+  margin-top: 0.1em;
+  margin-bottom: 0.1rem;
+}
+
+/*#formacion {
+  font-size: 0.85em;
+  column-count: 2;
+  width: 100%;
+}*/
+
+/* El marcador invisible (contenedor) */
+.formacion-columnas {
+  font-size: 0.75em;
+  column-count: 2 !important;
+  column-gap: 20px;
+  margin-left: 1.2em;
+  margin-top: 10px;
+  line-height: 1;
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+}
+
+/* Aseguramos que el contenido dentro no se rompa */
+.formacion-columnas ul {
+  padding-left: 1.1em !important;
+  margin-left: 0 !important;
+  margin-bottom: 8px !important;
+  margin-top: 2px !important;
+  list-style-position: outside;
+}
+
+.formacion-columnas p {
+  margin-bottom: 2px !important;
+  margin-top: 5px !important;
+}
+
+.formacion-columnas p strong {
+  display: inline-block;
+  text-decoration: underline;
+}
+
+.formacion-columnas li {
+  break-inside: avoid;
+  margin-bottom: 2px !important;
+}
+
+/* El título queda fuera del contenedor, así que hereda el estilo global */
+#formacion h2,
+#formacion h3 {
+  column-span: all;
+  /* Refuerzo para que ocupe todo el ancho */
+  width: 100%;
+}

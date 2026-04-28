@@ -1,0 +1,99 @@
+/* Contenedor Principal */
+.cv-it-theme {
+  font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Encabezado Principal (H1) */
+.cv-it-theme h1 {
+  color: #1a3a5f;
+  /* Azul profesional */
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 10px;
+  font-size: 2.2em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Subtítulos (H2 y H3) */
+.cv-it-theme h2 {
+  color: #2c3e50;
+  border-left: 5px solid #3498db;
+  padding-left: 15px;
+  margin-top: 30px;
+  font-size: 1.5em;
+  background-color: #f8f9fa;
+}
+
+/* Campos de Metadatos (Contacto, Web, GitHub) */
+.cv-it-theme dl.field-list {
+  display: grid;
+  grid-template-columns: 120px auto;
+  gap: 5px;
+  background: #ebebeb;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Texto etiquetas directivas */
+.cv-it-theme dl.field-list dt {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+/* Sección de Infraestructura Crítica (Resaltado Especial) */
+#infraestructura-critica-y-almacenamiento {
+  background-color: #f0f7ff;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #d1e3f8;
+}
+
+#infraestructura-critica-y-almacenamiento strong {
+  color: #1a3a5f;
+}
+
+/* Listas de Habilidades y Proyectos */
+.cv-it-theme ul {
+  padding-left: 20px;
+}
+
+.cv-it-theme li {
+  margin-bottom: 8px;
+}
+
+.cv-it-theme li strong {
+  color: #2980b9;
+}
+
+/* Separadores Horizontales */
+.cv-it-theme hr {
+  border: 0;
+  height: 1px;
+  background: #ddd;
+  margin: 40px 0;
+}
+
+/* Estilo para bloques de código o comandos (como /var/lib/virt_storage) */
+.cv-it-theme code.literal {
+  background-color: #f4f4f4;
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-family: 'Consolas', monospace;
+  color: #e83e8c;
+}
+
+/* Enlaces */
+.cv-it-theme a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.cv-it-theme a:hover {
+  text-decoration: underline;
+}
