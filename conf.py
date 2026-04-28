@@ -9,14 +9,13 @@ extensions = []
 # Evita que Sphinx intente procesar archivos temporales, 
 # borradores o entornos virtuales
 exclude_patterns = [
-    '_build', 
-    'Thumbs.db', 
-    '.DS_Store', 
-    '.env', 
-    'venv', 
-    'cv-borrar.rst', 
-    '*.txt', 
-    '*.md', 
+    '_build',
+    'Thumbs.db',
+    '.DS_Store',
+    '.env',
+    'venv',
+    '*.txt',
+    '*.md',
     '*.docx'
 ]
 
@@ -27,9 +26,18 @@ def setup(app):
     
     def add_custom_css(app, pagename, templatename, context, doctree):
         if pagename == 'IT/cv-it-2026':
-            app.add_css_file('cv-it.css')
-        elif pagename == 'Ventas/CV-010526-ventas.rst':
-            app.add_css_file('cv-ventas.css')
+            app.add_css_file('it.css')
+        elif pagename == 'IT/cv-info-010526':
+            app.add_css_file('info.css')
+        elif pagename == 'Administrativo/cv-admin-010526':
+            app.add_css_file('admin.css')
+        elif pagename == 'Otros/cv-taller-010526':
+            app.add_css_file('otros.css')
+        elif pagename == 'Transporte/cv-portes-010526':
+            app.add_css_file('portes.css')
+        elif pagename == 'Ventas/cv-010526-ventas':
+            app.add_css_file('ventas.css')
+
 
     app.connect('html-page-context', add_custom_css)
 
