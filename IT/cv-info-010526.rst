@@ -1,0 +1,76 @@
+.. rst-class:: info
+
+========================
+Info - Raúl Vílchez Ruiz
+========================
+
+:Contacto: r4u1974@gmail.com
+:Web: https://raulvilchez.org
+:GitHub: https://github.com/raul-dev2025
+
+
+EXPERIENCIA PROFESIONAL
+=======================
+
+**TécnicoSistemas**
+
+   * Administrador de sistemas UNIX/Linux(especialmente entornos Red Hat).
+   * Administración y mantenimiento de servidores x86:
+      Instalación, hardening y administración de servicios(shell).
+   * Virtualización y gestión de máquinas virtuales:
+      Virsh/QEMU, despliegue y snapshots, optimización de recursos.
+   * Redes de área local y comunicaciones de datos:
+      Diseño y resolución de problemas LAN, experiencia con equipos y routing básicos Cisco.
+   * Gestión de accesos y operaciones seguras:
+      SSH, backups, monitorización y tareas de soporte 2º nivel.   
+   * Experiencia en scripting y automatización      
+   * Disponibilidad para viajes y guardias. 
+
+**PCGlobal** - Autónomo.
+
+   * Comercial ventas.
+   * Asistencia al usuario.
+   * Técnico instalación y reparación.
+
+**Territorio Linux** - administrador de servidores.
+
+   * Admin Virsh(VMs), LVM, RAID, NAS, Apache, Git, SSH, Qemu.
+   * Programador Web(html, css, javascript).
+
+**Inforglob, S.L** - Operario equipos de cómputo
+
+   * Técnico instalación y reparación.
+
+**Tecsys-DB** (Inglaterra) - Ayudante oficina.
+
+   * Técnico: Data Warhouse.
+
+FORMACIÓN
+=========
+
+.. container:: formacion-columnas
+
+   **Grado superior**
+
+      * Sistemas Microinformáticos; Global Bits.
+      * Responsable comercial y Marketing(nota: N++).
+      * 3dMax, Programación Orientada a Objetos(nota: N++).
+
+   **Programación**
+
+      * Estudio Modelo de controlador de dispositivo de Linux(LDDM).
+      * Entorno de línea de comandos(dkms, git, rpm, gedit, gcc, virsh).
+      * Soporte medio virtual con optimizador/deduplicador(VDO).
+      * Unix, MsDos, C/C++, Python, OpenGL, OpenAL, Git, Ruby, Javascript, Html, Xml, Css.
+      * Red Hat(no certificado).
+      * Administrativo FP II.
+
+
+   **OTROS DATOS**
+
+      * Curso seguridad laboral.
+      * Curso mantenimiento eléctrico.
+      * Curso maquinaria de obra.
+      * Curso de reciclaje de componentes eléctricos.
+      * Carnets de conducir: B1-C1-C-C+E-BTP-CAP.
+      * Natural de Barcelona, 20-05-1974.
