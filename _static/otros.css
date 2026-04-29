@@ -1,4 +1,4 @@
-.info dl.field-list {
+.otros dl.field-list {
   display: grid;
   grid-template-columns: 120px auto;
   gap: 5px;
@@ -9,14 +9,23 @@
 }
 
 /* Texto etiquetas directivas */
-.info dl.field-list dt {
+.otros dl.field-list dt {
   font-weight: bold;
   color: #2c3e50;
+}
+
+.otros section#experiencia-profesional h2 {
+  margin-bottom: 1.2em !important;
 }
 
 body {
   line-height: 1.2;
   font-size: 1em;
+}
+
+#experiencia-profesional {
+  padding-top: 3em;
+  padding-bottom: 5em;
 }
 
 p,
@@ -59,7 +68,7 @@ li {
 
 .formacion-columnas p strong {
   display: inline-block;
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 
 .formacion-columnas li {
