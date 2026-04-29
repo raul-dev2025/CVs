@@ -13,38 +13,24 @@ Resumen Profesional
 ===================
 Profesional administrativo con sólida experiencia en la gestión operativa y de compras dentro del sector eléctrico y servicios de ingeniería. Especialista en el control integral de stocks, regulación de almacén y atención técnica al cliente, con un profundo conocimiento de materiales y componentes eléctricos. Cuento con formación superior en Marketing y Relaciones Públicas, destacando por mi eficiencia en la optimización de inventarios y soporte administrativo comercial.
 
+
 EXPERIENCIA PROFESIONAL
 =======================
 
-**PROTEC** - Sustitución baja temporal.
+**PROTEC** — Administrativo de Logística (Sustitución)
+   Control de inventario técnico para sistemas de detección de incendios y gestión de materiales especializados.
 
-- Control de stocks: material contra incendios.
-- Sistema inteligente detección de humos.
+**ENELMO** — Gestor Operativo de Grupos Electrógenos
+   Supervisión logística, control de suministros y gestión técnica de mantenimiento para equipos energéticos industriales.
 
-**ENELMO** - Operario grupos electrógenos.
+**SURIS INGENIERIA, S.A** — Administrativo de Compras
+   Gestión de aprovisionamiento para proyectos de ingeniería y control exhaustivo de recepción de materiales en obra.
 
-- Transporte y localización del grupo.
-- Montaje/desmontaje del circuito del grupo.
-- Supervisión y gestion de los grupos; combustible, estado, etc.
+**MUNTANER ELECTRO S.L** — Administrativo Comercial
+   Gestión de stocks y soporte administrativo orientado a la venta de material eléctrico especializado.
 
-**SURIS INGENIERIA, S.A** - Administrativo Compras.
-
-- Gestión de compras de material utilizado por los ingenieros.
-- Regulación de stock en almacén y control de recepción en obra/almacén.
-
-**MUNTANER ELECTRO S.L** - Administrativo Comercial.
-
-- Gestión de stocks.
-- Atención clientes.
-
-**ELECTRO STOCKS PALMA DE MALLORCA** - Responsable Almacén.
-
-- Control de stocks: entradas, salidas, carga y descarga, pedidos.
-- Atención clientes.
-
-**ELECTRO STOCKS CONDAL(BCN)** - Responsable Almacén.
-- Control de stocks: entradas, salidas, carga y descarga, pedidos.
-- Atención clientes.
+**ELECTRO STOCKS (BCN / Palma de Mallorca)** — Responsable de Almacén
+   Liderazgo operativo en centros de alta rotación, gestionando el ciclo completo de pedidos y atención técnica.
 
 
 FORMACIÓN
@@ -54,14 +40,25 @@ FORMACIÓN
 
    **Grado superior**
 
-      - Responsable comercial y Marketing(nota: N++).
-      - 3dMax, Programación Orientada a Objetos(POO, nota: N++).
+      * Sistemas Microinformáticos; Global Bits.
+      * Responsable comercial y Marketing(nota: N++).
+      * 3dMax, Programación Orientada a Objetos(nota: N++).
+
+   **Programación**
+
+      * Estudio Modelo de controlador de dispositivo de Linux(LDDM).
+      * Entorno de línea de comandos(dkms, git, rpm, gedit, gcc, virsh).
+      * Soporte medio virtual con optimizador/deduplicador(VDO).
+      * Unix, MsDos, C/C++, Python, OpenGL, OpenAL, Git, Ruby, Javascript, Html, Xml, Css.
+      * Red Hat(no certificado).
+      * Administrativo FP II.
+
 
    **OTROS DATOS**
 
-   - Curso trabajo en equipo.
-   - Curso mantenimiento eléctrico
-   - Curso maquinaria de obra
-   - Curso de reciclaje de componentes eléctricos
-   - Carnets de conducir: B1-C1-C-C+E-BTP-CAP
-   - Natural de Barcelona, 20-05-1974
+      * Curso seguridad laboral.
+      * Curso mantenimiento eléctrico.
+      * Curso maquinaria de obra.
+      * Curso de reciclaje de componentes eléctricos.
+      * Carnets de conducir: B1-C1-C-C+E-BTP-CAP.
+      * Natural de Barcelona, 20-05-1974.

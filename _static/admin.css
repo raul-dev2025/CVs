@@ -19,6 +19,16 @@ body {
   font-size: 1em;
 }
 
+#experiencia-profesional {
+  padding-top: 3em;
+  padding-bottom: 4em;
+}
+
+/* Ajuste de margen para la sección de experiencia en el CV Administrativo */
+.admin section#experiencia-profesional h2 {
+  margin-bottom: 1.5em !important;
+}
+
 p,
 li {
   margin-top: 0.1em;
