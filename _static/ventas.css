@@ -1,83 +1,80 @@
-/* Ataca cualquier celda de tabla que contenga la info de contacto */
-.field-list th,
-.field-list td {
-  font-size: 0.8em !important;
-  line-height: 1.2 !important;
-  padding-top: 1px !important;
-  padding-bottom: 1px !important;
+.ventas dl.field-list {
+  display: grid;
+  grid-template-columns: 120px auto;
+  gap: 5px;
+  background: #ebebeb;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
-/* Elimina el espacio que crean los párrafos automáticos de Sphinx */
-.field-list td p {
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-/* Ajuste de los títulos (H2 para subrayado ===) */
-h2 {
-  font-size: 1.2rem !important;
-  margin-top: 20px !important;
-  border-bottom: 1px solid #eee !important;
-}
-
-/* Ajuste de subtítulos (H3 para subrayado ---) */
-h3 {
-  font-size: 1rem !important;
-  color: #333 !important;
-}
-
-
-/* 1. Estilo para el cargo al lado de la empresa */
-.small-text {
-  font-size: 0.8em;
-  color: #000;
+/* Texto etiquetas directivas */
+.ventas dl.field-list dt {
   font-weight: bold;
+  color: #2c3e50;
 }
 
-/* 2. Bloques principales: Formación, Competencias y Otros */
-#formacion-academica,
-#competencias-tecnicas,
-#otros-datos-de-interes {
-  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+.ventas section#experiencia-profesional h2 {
+  margin-bottom: 1.2em !important;
+}
+
+body {
+  line-height: 1.2;
+  font-size: 1em;
+}
+
+p,
+li {
+  margin-top: 0.1em;
+  margin-bottom: 0.1rem;
+}
+
+/*#formacion {
   font-size: 0.85em;
-  /* Tamaño base para estas secciones */
-  color: #444;
+  column-count: 2;
+  width: 100%;
+}*/
+
+/* El marcador invisible (contenedor) */
+.formacion-columnas {
+  font-size: 0.75em;
+  column-count: 2 !important;
+  column-gap: 20px;
+  margin-left: 1.2em;
+  margin-top: 10px;
+  line-height: 1;
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
 }
 
-/* Títulos H2 (subrayados con ===) de estas secciones */
-#formacion-academica h1,
-#competencias-tecnicas h2,
-#otros-datos-de-interes h2 {
-  font-size: 1.2rem;
-  color: #000;
-  margin-top: 20px;
+/* Aseguramos que el contenido dentro no se rompa */
+.formacion-columnas ul {
+  padding-left: 1.1em !important;
+  margin-left: 0 !important;
+  margin-bottom: 8px !important;
+  margin-top: 2px !important;
+  list-style-position: outside;
 }
 
-/* 3. Subsecciones (subrayados con ---) en minúsculas */
-#grado-superior-y-fp h3,
-#especializacion-tecnica h3,
-#programacion-y-sistemas h3,
-#certificaciones-y-cursos h3,
-#permisos-de-conducir h3 {
-  font-size: 1rem;
-  /* Un poco más grande que el texto pero menos que el H2 */
-  color: #000;
-  margin-bottom: 5px;
+.formacion-columnas p {
+  margin-bottom: 2px !important;
+  margin-top: 5px !important;
 }
 
-/* 4. El contenido específico de esas subsecciones */
-#grado-superior-y-fp,
-#especializacion-tecnica,
-#programacion-y-sistemas,
-#certificaciones-y-cursos,
-#permisos-de-conducir {
-  font-size: 0.8em;
-  /* Letra más pequeña para que todo quepa mejor */
-  line-height: 1.3;
+.formacion-columnas p strong {
+  display: inline-block;
+  /*text-decoration: underline;*/
 }
 
-/* Margen extra para las listas de estas secciones */
-#grado-superior-y-fp ul,
-#programacion-y-sistemas ul {
-  margin-bottom: 10px;
+.formacion-columnas li {
+  break-inside: avoid;
+  margin-bottom: 2px !important;
+}
+
+/* El título queda fuera del contenedor, así que hereda el estilo global */
+#formacion h2,
+#formacion h3 {
+  column-span: all;
+  /* Refuerzo para que ocupe todo el ancho */
+  width: 100%;
 }
