@@ -1,4 +1,4 @@
-.info dl.field-list {
+.admin dl.field-list {
   display: grid;
   grid-template-columns: 120px auto;
   gap: 5px;
@@ -9,7 +9,7 @@
 }
 
 /* Texto etiquetas directivas */
-.info dl.field-list dt {
+.admin dl.field-list dt {
   font-weight: bold;
   color: #2c3e50;
 }
