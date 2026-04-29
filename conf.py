@@ -22,7 +22,7 @@ exclude_patterns = [
 html_static_path = ['_static']
 
 def setup(app):
-    app.add_css_file('base.css') # CSS común para ambos
+    app.add_css_file('otros.css') # CSS común
     
     def add_custom_css(app, pagename, templatename, context, doctree):
         if pagename == 'IT/cv-it-2026':
@@ -31,7 +31,7 @@ def setup(app):
             app.add_css_file('info.css')
         elif pagename == 'Administrativo/cv-admin-010526':
             app.add_css_file('admin.css')
-        elif pagename == 'Otros/cv-taller-010526':
+        elif 'cv-taller-010526' in pagename :
             app.add_css_file('otros.css')
         elif pagename == 'Transporte/cv-portes-010526':
             app.add_css_file('portes.css')
