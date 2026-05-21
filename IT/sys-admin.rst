@@ -1,8 +1,8 @@
 .. rst-class:: cv-it-theme
 
-=========================================
-Raúl Vílchez Ruiz - Ingeniero de Sistemas
-=========================================
+=============================================
+Raúl Vílchez Ruiz - SysAdmin / Cloud / DevOps
+=============================================
 
 :Contacto: r4u1974@gmail.com
 :Web: https://raulvilchez.org
