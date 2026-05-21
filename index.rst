@@ -1,6 +1,6 @@
-=================================
+====================
 Mis Curriculum Vitae
-=================================
+====================
 
 
 .. toctree::
@@ -9,6 +9,8 @@ Mis Curriculum Vitae
 
    IT/cv-it-2026
    IT/cv-info-010526
+   IT/backend-devel
+   IT/sys-admin
 
 
 .. toctree::

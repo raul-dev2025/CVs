@@ -1,0 +1,8 @@
+=========
+Mis notas
+=========
+
+- ATS (Applicant Tracking Systems)
+
+* SysAdmin / Cloud / DevOps
+* Python / Backend Developer:
