@@ -9,7 +9,7 @@ Raúl Vílchez Ruiz - SysAdmin / Cloud / DevOps
 :GitHub: https://github.com/raul-dev2025
 :Ubicación: El Masnou, Barcelona
 
-----
+-----
 
 Resumen Profesional
 ===================
@@ -26,6 +26,8 @@ Habilidades Técnicas (Keywords ATS)
 * **Almacenamiento y Redes:** VDO (Virtual Data Optimizer), LVM, RAID, NAS, SSH, Redes locales.
 * **Programación y Automatización:** Python, Bash Scripting, JavaScript, SQL, Git.
 * **Idiomas:** Español (Nativo), Inglés (Competencia Profesional).
+
+.. rst-class:: cv-section-highlight
 
 Infraestructura Crítica y Proyectos Destacados
 ==============================================

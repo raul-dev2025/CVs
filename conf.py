@@ -27,6 +27,10 @@ def setup(app):
     def add_custom_css(app, pagename, templatename, context, doctree):
         if pagename == 'IT/cv-it-2026':
             app.add_css_file('it.css')
+        elif pagename == 'IT/sys-admin':
+            app.add_css_file('it-sys.css')
+        elif pagename == 'IT/backend-devel':
+            app.add_css_file('it-sys.css')
         elif pagename == 'IT/cv-info-010526':
             app.add_css_file('info.css')
         elif pagename == 'Administrativo/cv-admin-010526':

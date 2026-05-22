@@ -13,6 +13,6 @@ __pycache__/
 # Archivos del sistema
 .DS_Store
 Thumbs.db
-.git-msg
+msg
 .commit-types.*
 .bitacora

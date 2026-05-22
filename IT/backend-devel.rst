@@ -27,6 +27,8 @@ Habilidades Técnicas (Keywords ATS)
 * **Formatos y Documentación:** reStructuredText (reST), Sphinx, Markdown, JSON.
 * **Idiomas:** Español (Nativo), Inglés (Competencia Profesional).
 
+.. rst-class:: cv-section-highlight
+
 Proyectos de Código Abierto Destacados
 ======================================
 
