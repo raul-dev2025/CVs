@@ -13,6 +13,9 @@ Rol de Administrador de Sistemas Senior / "Site Reliability Engineer" (SRE) puro
 
 -----
 
+1. El "Pitch" Inicial (Tu Presentación)
+=======================================
+
 ``>>`` **Pregunta**: *"Háblame de ti y de tu trayectoria reciente."*
 
 ``>>`` **Respuesta**: "Hola, buenas. Soy Raúl Vílchez, Administrador de Sistemas Linux orientado a la fiabilidad, predictibilidad y rendimiento de la infraestructura crítica.

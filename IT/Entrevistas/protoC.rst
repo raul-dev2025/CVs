@@ -13,6 +13,9 @@ Startup Tecnológica o Factoría de Software Agrevisiva (Foco en Producto)
 
 -----
 
+1. El "Pitch" Inicial (Tu Presentación)
+=======================================
+
 ``>>`` **Pregunta**: *"Háblame de ti y de tu trayectoria reciente."*
 
 ``>>`` **Respuesta**: "Hola, ¿qué tal? Soy Raúl Vílchez y soy un Administrador de Sistemas Linux enfocado en optimización de costes de infraestructura, automatización ágil y rendimiento de entornos de ingeniería.

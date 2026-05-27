@@ -13,6 +13,9 @@ Empresa Tecnológica Mediana / Consultora Cloud-Native (En pleno crecimiento)
  
 -----
 
+1. El "Pitch" Inicial (Tu Presentación)
+=======================================
+
 ``>>`` **Pregunta**: *"Háblame de ti y de tu trayectoria reciente."*
 
 ``>>`` **Respuesta**: "Hola, qué tal. Soy Raúl Vílchez y me considero un Técnico de Sistemas Linux orientado a la cultura DevOps, especializado en automatización de infraestructura, seguridad de accesos y optimización de entornos locales de alto rendimiento.

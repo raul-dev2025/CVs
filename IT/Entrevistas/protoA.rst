@@ -66,6 +66,13 @@ Al eliminar por completo el demonio de Docker (dockerd) corriendo como root, neu
 
 Desde el punto de vista de la gobernanza y la auditoría, integro este flujo mediante scripts en Python y Bash junto con systemd a nivel de usuario. Esto nos permite tratar los contenedores como servicios estándar del sistema. No dependemos de herramientas de terceros ni de 'cajas negras'; todo el ciclo de vida del contenedor se registra en los diarios nativos de Linux (journald), lo que facilita la centralización de logs y simplifica las auditorías de seguridad e infraestructura sin añadir sobrecostes de rendimiento."
 
+.. note::
+   
+   * **El enfoque para la Respuesta 4**: Aquí el argumento estrella es Rootless. Les fascina saber que cumples con el principio de mínimo privilegio de forma nativa sin abrir brechas en el host, y que el ciclo de vida se integra con systemd para que los operadores tradicionales de sistemas puedan auditarlo como cualquier otro servicio Linux.
+
+   * El entrevistador técnico o el CISO no quieren oír hablar de "lo último que está de moda", sino de reducción de riesgos, auditoría, cumplimiento de normativas y aislamiento.A ellos les preocupa enormemente que un contenedor comprometido comprometa todo el servidor host.
+
+
 
 5. Pregunta de Situación / Metodología (Soft Skills + Hard Skills)
 ==================================================================
