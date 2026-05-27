@@ -4,13 +4,14 @@ Mis Curriculum Vitae
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: IT - tecnología de la información
 
    IT/cv-it-2026
    IT/cv-info-010526
    IT/backend-devel
    IT/sys-admin
+   IT/Entrevistas/index
 
 
 .. toctree::
