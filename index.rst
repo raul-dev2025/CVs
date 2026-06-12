@@ -32,6 +32,7 @@ Mis Curriculum Vitae
    :caption: Otros
 
    Otros/cv-taller-010526
+   Otros/tec-aprovisionamiento
 
 .. toctree::
    :maxdepth: 2

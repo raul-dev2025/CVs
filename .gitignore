@@ -14,5 +14,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 msg
+msg-email.rst
 .commit-types.*
 .bitacora
