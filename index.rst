@@ -19,6 +19,7 @@ Mis Curriculum Vitae
    :caption: Administrativo
 
    Administrativo/cv-admin-010526
+   Administrativo/admin
 
 
 .. toctree::
@@ -31,8 +32,9 @@ Mis Curriculum Vitae
    :maxdepth: 2
    :caption: Otros
 
-   Otros/cv-taller-010526
+   Otros/responsable-taller
    Otros/tec-aprovisionamiento
+   Otros/operario-taller
 
 .. toctree::
    :maxdepth: 2
