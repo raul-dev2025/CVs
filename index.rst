@@ -50,3 +50,5 @@ Utilidades y archivos informativos
    :maxdepth: 1
 
    .commit-types
+   Candidaturas/autocandidatura.rst
+   Candidaturas/reclasificacion.rst
