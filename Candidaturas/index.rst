@@ -22,6 +22,7 @@ Auditoría del rendimiento de tus postulaciones, con el objetivo de medir la efe
    :maxdepth: 1
 
    /.bitacora
+   Metricas/hojaDeRuta
    Metricas/pipelineMetrics
    Metricas/metodologia
    Metricas/adeccoTechnology

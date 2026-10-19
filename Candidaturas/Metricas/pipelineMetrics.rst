@@ -46,4 +46,4 @@ AMPLIACIÓN DE CANALES: FACTORES ESTRATÉGICOS DE ENTRADA
 
 -----
 
-   :doc:`Índice principal </Candidaturas/index>`
+   :doc:`Índice </Candidaturas/index>`
