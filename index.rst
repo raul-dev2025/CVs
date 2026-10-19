@@ -1,44 +1,60 @@
-====================
-Mis Curriculum Vitae
-====================
+================
+Curriculum Vitae
+================
 
+
+IT - tecnología de la información
+=================================
 
 .. toctree::
    :maxdepth: 1
-   :caption: IT - tecnología de la información
-
-   IT/cv-it-2026
-   IT/cv-info-010526
+   
    IT/backend-devel
    IT/sys-admin
+   IT/cv-it-2026
+   IT/cv-info-010526
    IT/Entrevistas/index
 
+-----
+
+Administrativo
+==============
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Administrativo
+   :maxdepth: 1
 
    Administrativo/cv-admin-010526
    Administrativo/admin
 
+-----
+
+Ventas
+======
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Ventas
+   :maxdepth: 1
 
    Ventas/cv-010526-ventas
 
+-----
+
+Otros
+=====
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Otros
+   :maxdepth: 1
 
    Otros/responsable-taller
    Otros/tec-aprovisionamiento
    Otros/operario-taller
 
+-----
+
+Transporte
+==========
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Transporte
+   :maxdepth: 1
 
    Transporte/cv-portes-010526
 
@@ -50,5 +66,5 @@ Utilidades y archivos informativos
    :maxdepth: 1
 
    .commit-types
-   Candidaturas/autocandidatura.rst
-   Candidaturas/reclasificacion.rst
+   /Candidaturas/autocandidatura
+   /Candidaturas/reclasificacion
