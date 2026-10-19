@@ -26,6 +26,38 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Pendiente     
      - Elisabeth Corzo
 
+   * - **Seidor**
+     - rrhh@seidor.es
+     - --
+     - Pendiente
+     - Integrador de sistemas e infraestructura IT
+
+   * - **Econocom Spain**
+     - seleccion@econocom.com
+     - --
+     - Pendiente
+     - Servicios digitales e infraestructuras
+
+   * - **T-Systems Iberia**
+     - empleos@t-systems.es
+     - --
+     - Pendiente
+     - Gestión de infraestructuras críticas
+
+   * - **Ingenova**
+     - info@ingenova.com
+     - --
+     - Pendiente
+     - Data centers y sistemas en Barcelona
+
+   * - **Voxel Group**
+     - talent@voxelgroup.net
+     - --
+     - Pendiente
+     - Infraestructuras y desarrollo (Sant Cugat)
+
+
+
 -----
 
    :doc:`Índice </Candidaturas/index>`

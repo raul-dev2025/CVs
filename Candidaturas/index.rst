@@ -8,9 +8,9 @@ Sección destinada a recopilar y organizar los procesos de selección activos y 
 .. toctree::
    :maxdepth: 2
 
-   autocandidatura
-   agencias
+   autocandidatura   
    servicios
+   agencias
 
 
 Métricas de seguimiento y conversión de candidaturas

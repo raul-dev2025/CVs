@@ -14,11 +14,35 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
      - Estado
      - Observaciones / Perfil
 
-   * - **Universitat Oberta de Catalunya (UOC)**
-     - seleccio@uoc.edu
+   * - **Electricitat Boquet, S.L.**
+     - boquet@boquet.cat
      - --
      - Pendiente
-     - Àrea de Persones
+     - Optimización de redes y soporte técnico
+
+   * - **Ferretería Industrial Suminosa**
+     - administracion@suminosa.es
+     - --
+     - Pendiente
+     - Redes locales y almacenamiento
+
+   * - **Pimec**
+     - pimec@pimec.org
+     - --
+     - Pendiente
+     - Consultoría externa de digitalización
+
+   * - **Enginyeria i Muntatges Locals**
+     - info@enginyerialocal.es
+     - --
+     - Pendiente
+     - Auditorías de sistemas y cableado
+
+   * - **Pimec**
+     - pimec@pimec.org
+     - --
+     - Pendiente
+     - Consultoría externa de digitalización
 
 -----
 
