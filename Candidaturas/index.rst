@@ -2,32 +2,32 @@
 Cadidaturas
 ===========
 
-:doc:`Índice principal </index>`
+Sección destinada a recopilar y organizar los procesos de selección activos y las ofertas gestionadas a través de diferentes plataformas y vías (como Adecco Technology, autocandidaturas, búsquedas en LinkedIn y procesos de reclasificación).
 
------
 
 .. toctree::
    :maxdepth: 2
 
-   adeccoTechnology
    autocandidatura
-   BusquedasLinkedIn
-   reclasificacion
+   agencias
+   servicios
 
 
-**Candidaturas:** Sección destinada a recopilar y organizar los procesos de selección activos y las ofertas gestionadas a través de diferentes plataformas y vías (como Adecco Technology, autocandidaturas, búsquedas en LinkedIn y procesos de reclasificación).
+Métricas de seguimiento y conversión de candidaturas
+====================================================
 
-
-Seguimiento de tareas
-=====================
+Auditoría del rendimiento de tus postulaciones, con el objetivo de medir la efectividad de los canales de empleo (como el paso de redes generalistas a divisiones IT especializadas) y optimizar los embudos de conversión en procesos selectivos.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    /.bitacora
-
-**Seguimiento de tareas:** Sección orientada al registro continuo y control del progreso de las actividades diarias mediante una bitácora.
+   Metricas/pipelineMetrics
+   Metricas/metodologia
+   Metricas/adeccoTechnology
+   Metricas/BusquedasLinkedIn
+   Metricas/reclasificacion
 
 -----
 
-:doc:`Índice principal </index>`
+:doc:`Índice principal </Candidaturas/index>`

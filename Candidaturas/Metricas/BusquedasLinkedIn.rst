@@ -45,3 +45,7 @@ Tu plan de acción en LinkedIn para hoy:
 
 
 Al abrir de 5 a 10 contactos de esta lista entre hoy y mañana, equilibras perfectamente tu búsqueda activa de alta ingeniería mientras se tramita la respuesta del puesto ferroviario de Adecco. ¡Adelante con ello!
+
+-----
+
+   :doc:`Índice principal </Candidaturas/index>`

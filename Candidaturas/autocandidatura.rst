@@ -2,55 +2,30 @@
 Autocandidatura
 ===============
 
+Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a empresas privadas del sector. Este listado permite auditar el impacto directo B2B, registrar la fecha de envío y medir la tasa de conversión sin intermediación de agencias o terceros.
 
-.. list-table:: Listado de Empresas y Organizaciones para Autocandidatura (Ampliado)
-   :widths: 35 45 20
+.. list-table:: Registro y Seguimiento de Autocandidaturas Directas
+   :widths: 20 25 15 15 25
    :header-rows: 1
 
    * - Nombre Empresa / Organización
-     - Correo Electrónico
-     - Persona de Contacto
+     - Contacto / Correo Electrónico
+     - Fecha Envío
+     - Estado
+     - Observaciones / Perfil
 
    * - **Electricitat Boquet, S.L.**
      - boquet@boquet.cat
+     - --
+     - Pendiente
      - Dpto. de Selección / Administración
-
-   * - **Adecco Staffing (Barcelona)**
-     - m.duartearevalo@adecco.com
-     - Angélica Duarte Arévalo
-
-   * - **Adecco Staffing (Mollet / Vallès)**
-     - ismael.diez@adecco.com
-     - Ismael Díez
-
-   * - **Adecco Staffing (Mataró)**
-     - daniela.cordero@adecco.com
-     - Daniela Cordero Robles
-
-   * - **Adecco Staffing (Gestión Automoción)**
-     - aida.martincastanon@adecco.com
-     - Aida Martín Castañón
-
-   * - **Servei d'Ocupació de Mataró (SOM)**
-     - serveiocupacio@ajmataro.cat
-     - Verònica Pérez / Alba Benavente
-
-   * - **Federació d'Associacions i Gremis Empresarials del Maresme (FAGEM)**
-     - stosca@fagem.org
-     - Sílvia Tosca
 
    * - **Ferretería Industrial Suminosa**
      - administracion@suminosa.es
+     - --
+     - Pendiente     
      - Elisabeth Corzo
 
-   * - **Grupo Constant**
-     - patriciasoledad@grupoconstant.com
-     - Soledad Gallastegui
+-----
 
-   * - **Universitat Oberta de Catalunya (UOC)**
-     - seleccio@uoc.edu
-     - Àrea de Persones
-
-   * - **Glowth Talent**
-     - rrhh@glowthtalent.com
-     - Equipo de Selección
+   :doc:`Índice </Candidaturas/index>`

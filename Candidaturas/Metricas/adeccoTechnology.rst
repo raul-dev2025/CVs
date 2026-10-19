@@ -63,9 +63,12 @@ Cada interacción, acuse de recibo o ausencia de respuesta por parte de la divis
 
 * **Actualización del Registro:** El resultado de este escalado técnico se indexará en el documento *dosier-A3* dentro del apartado de "Mitigación de Filtros", sirviendo como evidencia de que el actor ha agotado la diligencia debida en todos los niveles de la estructura de contratación.
 
+Referencias
+===========
 
+* `Adecco sector TIC <https://www.adecco.com/es-es/empresas/sectores/sector-tic>`_
+* `Adecco Group <https://careers.adeccogroup.com/es/>`_
 
 -----
 
-https://www.adecco.com/es-es/empresas/sectores/sector-tic
-https://careers.adeccogroup.com/es/
+   :doc:`Índice </Candidaturas/index>`

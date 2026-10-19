@@ -1,6 +1,6 @@
-=====================================================================
+=======================================================================
 INFORME ESTRATÉGICO DE RECLASIFICACIÓN LABORAL Y PENETRACIÓN DE MERCADO
-=====================================================================
+=======================================================================
 
 :Origen de Datos: Dosieres Analíticos A1, A2 y A3 (`eh.git`)
 :Objetivo Técnico: Reversión de la Desclasificación y Activación de Canales de Alta Cualificación
@@ -81,3 +81,7 @@ El seguimiento de las respuestas obtenidas y las variaciones en las ofertas inst
 
 * **Control de Versiones de CV:** Las adaptaciones de optimización semántica aplicadas para cada ETT tecnológica se auditarán a través del repositorio; `repositorio CVs <https://github.com/raul-dev2025/CVs.git>`_.
 * **Enlace Procesal:** La documentación del rechazo o de la aceptación de condiciones de este plan servirá para alimentar el Bloque 3 del Anexo B relativo al esfuerzo de mitigación del daño patrimonial.
+
+-----
+
+   :doc:`Índice principal </Candidaturas/index>`
