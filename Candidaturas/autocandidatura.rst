@@ -40,8 +40,8 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
 
    * - **T-Systems Iberia**
      - FMB_TS_IB_MARCOM@t-systems.com
-     - --
-     - Pendiente
+     - 2026-10-20
+     - Enviado
      - Gestión de infraestructuras críticas
 
    * - **Ingenova**
