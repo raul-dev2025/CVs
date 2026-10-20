@@ -51,10 +51,10 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Data centers y sistemas en Barcelona
 
    * - **Voxel Group**
-     - talent@voxelgroup.net
-     - --
-     - Pendiente
-     - Infraestructuras y desarrollo (Sant Cugat)
+     - info@voxelgroup.net
+     - 2026-10-20
+     - Enviado
+     - Infraestructuras y desarrollo (Perfil SysAdmin)
 
 
 
