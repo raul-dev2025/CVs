@@ -23,8 +23,8 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
    * - **Ferretería Industrial Suminosa**
      - administracion@suminosa.es
      - 2026-10-20
-     - Enviado    
-     - Elisabeth Corzo / Perfil Aprovisionamiento
+     - Acuse/En Proceso
+     - Confirmación de recepción recibida (10:39h)
 
    * - **Seidor**
      - rrhh@seidor.es
