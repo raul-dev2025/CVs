@@ -45,9 +45,9 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Gestión de infraestructuras críticas
 
    * - **Ingenova**
-     - info@ingenova.com
-     - --
-     - Pendiente
+     - info@ingenovasl.com
+     - 2026-10-20
+     - Enviado
      - Data centers y sistemas en Barcelona
 
    * - **Voxel Group**
