@@ -56,7 +56,35 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Enviado
      - Infraestructuras y desarrollo (Perfil SysAdmin)
 
+   * - **Cellnex Telecom**
+     - rrhh@cellnextelecom.com
+     - 2026-10-21
+     - Pendiente
+     - Perfil SysAdmin / Infraestructuras y Telecomunicaciones
 
+   * - **NTT DATA Spain**
+     - talent.spain@nttdata.com
+     - 2026-10-21
+     - Pendiente
+     - Perfil SysAdmin / DevOps & Cloud Infrastructure
+
+   * - **SITRA (Logística e Infraestructuras)**
+     - rrhh@sitra.es
+     - 2026-10-21
+     - Pendiente
+     - Perfil Otros / Técnico de Aprovisionamiento y Logística
+
+   * - **Sener Ingenieria**
+     - seleccion@sener.es
+     - 2026-10-21
+     - Pendiente
+     - Perfil SysAdmin / Infraestructuras de Ingeniería
+
+   * - **LPR - La Palette Rouge**
+     - rrhh.spain@lpr.eu
+     - 2026-10-21
+     - Pendiente
+     - Perfil Otros / Aprovisionamiento, Cadena de Suministro y Logística
 
 -----
 
