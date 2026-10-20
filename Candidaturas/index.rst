@@ -31,4 +31,4 @@ Auditoría del rendimiento de tus postulaciones, con el objetivo de medir la efe
 
 -----
 
-:doc:`Índice principal </Candidaturas/index>`
+:doc:`Índice principal </index>`
