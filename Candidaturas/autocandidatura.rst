@@ -16,8 +16,8 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
 
    * - **Electricitat Boquet, S.L.**
      - boquet@boquet.cat
-     - --
-     - Pendiente
+     - 03/05/2025
+     - Entrevista/SR
      - Dpto. de Selección / Administración
 
    * - **Ferretería Industrial Suminosa**
