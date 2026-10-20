@@ -33,13 +33,13 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Perfil SysAdmin / Infraestructuras IT
 
    * - **Econocom Spain**
-     - seleccion@econocom.com
+     - marketingycomunicacion@econocom.com
      - 2026-10-20
      - Enviado
      - Perfil SysAdmin / Infraestructuras IT
 
    * - **T-Systems Iberia**
-     - empleos@t-systems.es
+     - FMB_TS_IB_MARCOM@t-systems.com
      - --
      - Pendiente
      - Gestión de infraestructuras críticas
