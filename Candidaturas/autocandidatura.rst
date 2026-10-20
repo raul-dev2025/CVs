@@ -28,9 +28,9 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
 
    * - **Seidor**
      - rrhh@seidor.es
-     - --
-     - Pendiente
-     - Integrador de sistemas e infraestructura IT
+     - 2026-10-20
+     - Enviado
+     - Perfil SysAdmin / Infraestructuras IT
 
    * - **Econocom Spain**
      - seleccion@econocom.com
