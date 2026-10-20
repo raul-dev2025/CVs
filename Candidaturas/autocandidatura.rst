@@ -34,9 +34,9 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
 
    * - **Econocom Spain**
      - seleccion@econocom.com
-     - --
-     - Pendiente
-     - Servicios digitales e infraestructuras
+     - 2026-10-20
+     - Enviado
+     - Perfil SysAdmin / Infraestructuras IT
 
    * - **T-Systems Iberia**
      - empleos@t-systems.es
