@@ -57,9 +57,9 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Perfil SysAdmin / Infraestructuras y Telecomunicaciones
 
    * - **NTT DATA Spain**
-     - talent.spain@nttdata.com
+     - Global.careers@nttdata.com
      - 2026-10-21
-     - Pendiente
+     - Enviado
      - Perfil SysAdmin / DevOps & Cloud Infrastructure
 
    * - **SITRA (Logística e Infraestructuras)**
