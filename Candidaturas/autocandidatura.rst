@@ -53,7 +53,7 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
    * - **Voxel Group**
      - info@voxelgroup.net
      - 2026-10-20
-     - Enviado
+     - ???
      - Infraestructuras y desarrollo (Perfil SysAdmin)
 
    * - **Cellnex Telecom**
