@@ -47,13 +47,13 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
    * - **Voxel Group**
      - info@voxelgroup.net
      - 2026-10-20
-     - ???
+     - Bloqueado SMT
      - Infraestructuras y desarrollo (Perfil SysAdmin)
 
    * - **Cellnex Telecom**
      - rrhh@cellnextelecom.com
      - 2026-10-21
-     - Pendiente
+     - Bloqueado SMT
      - Perfil SysAdmin / Infraestructuras y Telecomunicaciones
 
    * - **NTT DATA Spain**
