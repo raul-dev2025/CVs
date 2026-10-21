@@ -11,3 +11,4 @@ Estandar de fases
 - **Entrevista/SR** Después de realizar la entrevista no se recibió respuesta.
 - **Aceptado/Contratado:** Conversión exitosa.
 - **Desestimado/ Sin Respuesta:** Descarte explícito o caducidad por latencia sin respuesta (p. ej. pasados 30 días).
+- **Bloqueado SMT**, enfocar la candidatura a través de sus canales oficiales o buscar una vía indirecta.
