@@ -33,8 +33,8 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Perfil SysAdmin / Infraestructuras IT
 
    * - **Econocom Spain**
-     - marketingycomunicacion@econocom.com
-     - 2026-10-20
+     - candidaturas.es@econocom.com
+     - 2026-10-21
      - Enviado
      - Perfil SysAdmin / Infraestructuras IT
 
