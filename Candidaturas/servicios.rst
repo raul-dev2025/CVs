@@ -44,6 +44,12 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
      - Pendiente
      - Consultoría externa de digitalización
 
+   * - **Ingenova**
+     - info@ingenovasl.com
+     - 2026-10-20
+     - Pendiente
+     - Servicios de ingeniería
+
 -----
 
    :doc:`Índice </Candidaturas/index>`
