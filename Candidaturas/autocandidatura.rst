@@ -63,9 +63,9 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Perfil SysAdmin / DevOps & Cloud Infrastructure
 
    * - **SITRA (Logística e Infraestructuras)**
-     - rrhh@sitra.es
-     - 2026-10-21
-     - Pendiente
+     - info@sitra.es
+     - 2026-10-22
+     - Enviado
      - Perfil Otros / Técnico de Aprovisionamiento y Logística
 
    * - **Sener Ingenieria**
