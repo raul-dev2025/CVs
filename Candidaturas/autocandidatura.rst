@@ -69,9 +69,9 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Perfil Otros / Técnico de Aprovisionamiento y Logística
 
    * - **Sener Ingenieria**
-     - seleccion@sener.es
-     - 2026-10-21
-     - Pendiente
+     - talent-acquisition-team-bmb@seneringenieria.teamtailor-mail.com
+     - 2026-10-22
+     - Enviado
      - Perfil SysAdmin / Infraestructuras de Ingeniería
 
    * - **LPR - La Palette Rouge**
