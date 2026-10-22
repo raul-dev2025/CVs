@@ -75,9 +75,9 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Perfil SysAdmin / Infraestructuras de Ingeniería
 
    * - **LPR - La Palette Rouge**
-     - rrhh.spain@lpr.eu
-     - 2026-10-21
-     - Pendiente
+     - info.es@lpr.eu
+     - 2026-10-22
+     - Enviado
      - Perfil Otros / Aprovisionamiento, Cadena de Suministro y Logística
 
 -----
