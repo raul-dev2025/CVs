@@ -28,6 +28,7 @@ Auditoría del rendimiento de tus postulaciones, con el objetivo de medir la efe
    Metricas/adeccoTechnology
    Metricas/BusquedasLinkedIn
    Metricas/reclasificacion
+   /Metricas/listadoEmppresarial
 
 -----
 

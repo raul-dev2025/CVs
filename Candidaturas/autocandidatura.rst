@@ -79,6 +79,17 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - 2026-10-22
      - Enviado
      - Perfil Otros / Aprovisionamiento, Cadena de Suministro y Logística
+   * - **Volotea**
+     - -
+     - -
+     - Pendinte
+     - Perfil Otros / Aprovisionamiento, Cadena de Suministro y Logística
+   * - **Default**
+     - -
+     - -
+     - Pendinte
+     - Perfil Otros / Aprovisionamiento, Cadena de Suministro y Logística
+
 
 -----
 
