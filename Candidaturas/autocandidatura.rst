@@ -86,6 +86,12 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Enviado
      - Exoesqueletos y rehabilitación robótica
 
+   * - **Apeiron Agents**
+     - contact@apeironagents.tech
+     - 2026-10-28
+     - Enviado
+     - DeepTech / Cómputo e Infraestructura Linux
+
      
    * - **Default**
      - --
