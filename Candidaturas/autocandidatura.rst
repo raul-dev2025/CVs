@@ -88,10 +88,10 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
 
      
    * - **Default**
-     - -
-     - -
+     - --
+     - --
      - Pendinte
-     - Perfil Otros / Aprovisionamiento, Cadena de Suministro y Logística
+     - Default Default Default Default Default Default Default
 
 
 -----
