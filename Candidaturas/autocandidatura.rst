@@ -110,6 +110,11 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Enviado
      - EnergyTech / Python Backend & Cloud
 
+   * - **Beta Robots**
+     - oriol@beta-robots.com
+     - 2026-10-28
+     - Enviado
+     - Robótica Móvil / Linux Embebido & C
      
    * - **Default**
      - --
