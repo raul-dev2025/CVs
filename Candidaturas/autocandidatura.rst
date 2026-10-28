@@ -92,6 +92,12 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Enviado
      - DeepTech / Cómputo e Infraestructura Linux
 
+   * - **ARQ Quantum Technologies**
+     - admin@arqtech.eu
+     - 2026-10-28
+     - Enviado
+     - DeepTech / Hardware y Control Linux
+
      
    * - **Default**
      - --
