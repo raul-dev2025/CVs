@@ -98,6 +98,12 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Enviado
      - DeepTech / Hardware y Control Linux
 
+   * - **The Balance Phone**
+     - hello@thebalancephone.com
+     - 2026-10-28
+     - Enviado
+     - Sistemas Embebidos / Linux OS / Hardware Minimalista
+
      
    * - **Default**
      - --
