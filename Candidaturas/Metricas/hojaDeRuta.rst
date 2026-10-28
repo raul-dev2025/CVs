@@ -1,11 +1,15 @@
-=============================================================================
+============
+Hoja de Ruta
+============
+
+
 HOJA DE RUTA OPERATIVA: PLAN DE ACCIÓN Y TRAZABILIDAD DE POSTULACIONES
-=============================================================================
+======================================================================
 
 :Módulo: Candidaturas / Planificación Táctica
 :Propósito: Ejecución de acciones secuenciales para la prospección y análisis de mercado
 
-Esta hoja de ruta establece el plan de acción inmediato para la ejecución de candidaturas, fundamentado en los parámetros de control definidos en el marco de *Pipeline Metrics*. Las acciones se estructuran de forma secuencial para optimizar los recursos técnicos y asegurar la conversión hacia nodos especializados.
+Esta hoja de ruta establece el plan de acción inmediato para la ejecución de candidaturas, fundamentado en los parámetros de control definidos en el marco de :doc:`Pipeline Metrics <pipelineMetrics>`. Las acciones se estructuran de forma secuencial para optimizar los recursos técnicos y asegurar la conversión hacia nodos especializados.
 
 
 Fases de Ejecución Táctica

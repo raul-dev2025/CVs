@@ -49,6 +49,21 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
      - 2026-10-20
      - Pendiente
      - Servicios de ingeniería
+   * - **Able, human motion**
+     - hello@ablehumanmotion.com
+     - -
+     - Pendinte
+     - Perfil Otros / Aprovisionamiento, Cadena de Suministro y Logística
+   * - **Agencia Talaia**
+     - info@agenciatalaia.com
+     - 2026-10-28
+     - Pendinte
+     - Agencia de comunicación. Ámbito social, cooperativo y feminista
+   * - **Default**
+     - -
+     - -
+     - Pendinte
+     - Perfil Otros / Aprovisionamiento, Cadena de Suministro y Logística
 
 -----
 

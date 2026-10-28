@@ -1,8 +1,8 @@
-=================
-Lista de empresas
-=================
+=====================
+Busquedas en LinkedIn
+=====================
 
-lista estratégica de empresas clave en el sector tecnológico y de consultoría IT en el área de Barcelona. Están divididas por su tipología para que puedas realizar búsquedas muy dirigidas en LinkedIn de perfiles como **"IT Recruiter"** o **"Talent Acquisition"**.
+Lista estratégica de empresas clave en el sector tecnológico y de consultoría IT en el área de Barcelona. Están divididas por su tipología para que puedas realizar búsquedas muy dirigidas en LinkedIn de perfiles como **"IT Recruiter"** o **"Talent Acquisition"**.
 
 1. Consultoras IT de tamaño medio (Similares a Capitole)
 ========================================================

@@ -6,7 +6,7 @@ Sección destinada a recopilar y organizar los procesos de selección activos y 
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    autocandidatura   
    servicios
@@ -28,7 +28,7 @@ Auditoría del rendimiento de tus postulaciones, con el objetivo de medir la efe
    Metricas/adeccoTechnology
    Metricas/BusquedasLinkedIn
    Metricas/reclasificacion
-   /Metricas/listadoEmppresarial
+   Metricas/listadoEmpresarial
 
 -----
 

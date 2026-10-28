@@ -62,3 +62,7 @@ CTecno (Círculo Tecnológico de Cataluña)
 ========================================
 
 * `Cercle tecnològic <https://www.cercletecnologic.cat/es/somos>`_
+
+-----
+
+   :doc:`Índice candidaturas </Candidaturas/index>`
