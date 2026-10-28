@@ -104,6 +104,12 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Enviado
      - Sistemas Embebidos / Linux OS / Hardware Minimalista
 
+   * - **Bamboo energy**
+     - admin@bambooenergy.tech
+     - 2026-10-28
+     - Enviado
+     - EnergyTech / Python Backend & Cloud
+
      
    * - **Default**
      - --
