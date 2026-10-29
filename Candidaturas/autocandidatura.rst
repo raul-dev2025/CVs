@@ -105,7 +105,7 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
    * - **The Balance Phone**
      - hello@thebalancephone.com
      - 2026-10-28
-     - Enviado
+     - No interesado / Cerrado
      - Sistemas Embebidos / Linux OS / Hardware Minimalista
 
    * - **Bamboo energy**
