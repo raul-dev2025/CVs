@@ -20,55 +20,48 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
 
    * - **Electricitat Boquet, S.L.**
      - boquet@boquet.cat
-     - --
-     - Pendiente
-     - Optimización de redes y soporte técnico
+     - 2026-10-29
+     - Enviado
+     - Instalaciones eléctricas e ingeniería de baja/media tensión
 
    * - **Ferretería Industrial Suminosa**
      - administracion@suminosa.es
-     - --
-     - Pendiente
-     - Redes locales y almacenamiento
+     - 2026-10-29
+     - Enviado
+     - Ferretería industrial
 
    * - **Pimec**
      - pimec@pimec.org
-     - --
-     - Pendiente
-     - Consultoría externa de digitalización
+     - 2026-10-29
+     - Enviado
+     - Patronal que representa a las PYME y autónomos de Cataluña
 
-   * - **Enginyeria i Muntatges Locals**
-     - info@enginyerialocal.es
-     - --
-     - Pendiente
-     - Auditorías de sistemas y cableado
-
-   * - **Pimec**
-     - pimec@pimec.org
-     - --
-     - Pendiente
-     - Consultoría externa de digitalización
+   * - **IMES**
+     - imes@imes.cat
+     - 2026-10-29
+     - Enviado
+     - IMES, instal·lacions i muntatges elèctrics del vallès s.l
 
    * - **Ingenova**
      - info@ingenovasl.com
      - 2026-10-20
      - Pendiente
      - Servicios de ingeniería
+     
    * - **Able, human motion**
      - hello@ablehumanmotion.com
      - -
      - Pendinte
      - Perfil Otros / Aprovisionamiento, Cadena de Suministro y Logística
+
    * - **Agencia Talaia**
      - info@agenciatalaia.com
      - 2026-10-28
      - Pendinte
      - Agencia de comunicación. Ámbito social, cooperativo y feminista
+
    * - **Default**
      - -
      - -
      - Pendinte
      - Perfil Otros / Aprovisionamiento, Cadena de Suministro y Logística
-
------
-
-   :doc:`Índice </Candidaturas/index>`
