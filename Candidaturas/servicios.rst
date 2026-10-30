@@ -66,6 +66,12 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
      - Enviado
      - Empresa de instalaciones y servicios técnicos.
 
+   * - **AM Prolegins**
+     - info@am-prolegins.com
+     - 2026-10-30
+     - Enviado
+     - Estudio de ingeniería técnica de instalaciones.
+
 
    * - **Default**
      - -
