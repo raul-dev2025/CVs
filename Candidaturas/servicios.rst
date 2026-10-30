@@ -114,6 +114,12 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
      - Enviado
      - Asesoría integral (laboral, fiscal, contable) y administración de fincas.
 
+   * - **AutoBCN**
+     - info.autobcn@gmail.com - info@autobcn.net
+     - 2026-10-30
+     - Enviado
+     - Taller automóbiles
+
 
    * - **Default**
      - -
