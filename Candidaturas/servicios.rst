@@ -90,6 +90,12 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
      - Enviado WhatsApp
      - Interconexión segura de maquinaria de laboratorio
 
+   * - **Centre Mèdic Badalona**
+     - centromedico.gramenet@gmail.com
+     - 2026-10-30
+     - Enviado
+     - Hardening y gestión de servidores locales
+
 
    * - **Default**
      - -
