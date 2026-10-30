@@ -108,6 +108,12 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
      - Enviado
      - Asesoría fiscal, laboral, contable y gestoría administrativa.
 
+   * - **SGI 360 | Asesoría y Gestoríat**
+     - info@sgi360.es
+     - 2026-10-30
+     - Enviado
+     - Asesoría integral (laboral, fiscal, contable) y administración de fincas.
+
 
    * - **Default**
      - -
