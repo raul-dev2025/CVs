@@ -102,6 +102,12 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
      - Pendiente
      - Logística, transporte nacional/internacional y distribución.
 
+   * - **Asesoría Arribas Badalona**
+     - info@asesoriaarribas.com
+     - 2026-10-30
+     - Enviado
+     - Asesoría fiscal, laboral, contable y gestoría administrativa.
+
 
    * - **Default**
      - -
