@@ -78,6 +78,12 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
      - Enviado
      - Ingeniería técnica industrial
 
+   * - **Instalaciones Eléctricas Padiluz S.L.**
+     - 
+     - 2026-10-30
+     - Pendiente
+     - Instalaciones Eléctricas Padiluz S.L.
+
 
    * - **Default**
      - -
