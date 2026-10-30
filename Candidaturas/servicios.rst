@@ -96,6 +96,12 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
      - Enviado
      - Hardening y gestión de servidores locales
 
+   * - **Rapid Way Transportes S.A.**
+     - --
+     - 2026-10-30
+     - Pendiente
+     - Logística, transporte nacional/internacional y distribución.
+
 
    * - **Default**
      - -
