@@ -79,10 +79,16 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
      - Ingeniería técnica industrial
 
    * - **Instalaciones Eléctricas Padiluz S.L.**
-     - 
+     - --
      - 2026-10-30
      - Pendiente
      - Instalaciones Eléctricas Padiluz S.L.
+
+   * - **mdb Laboratorio de Análisis Clínicos**
+     - mdb@labmdb.com - 669 455 570
+     - 2026-10-30
+     - Enviado WhatsApp
+     - Interconexión segura de maquinaria de laboratorio
 
 
    * - **Default**
