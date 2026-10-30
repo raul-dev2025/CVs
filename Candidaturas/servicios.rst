@@ -60,6 +60,12 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
      - Enviado
      - Agencia de comunicación. Ámbito social, cooperativo y feminista
 
+   * - **Nirak Instalaciones S.L.**
+     - info@nirakinstalaciones.es
+     - 2026-10-30
+     - Enviado
+     - Empresa de instalaciones y servicios técnicos.
+
 
    * - **Default**
      - -
