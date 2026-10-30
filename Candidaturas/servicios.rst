@@ -72,6 +72,12 @@ Registro y seguimiento de propuestas de valor, consultoría de infraestructuras 
      - Enviado
      - Estudio de ingeniería técnica de instalaciones.
 
+   * - **Baye Enginyers, S.L.**
+     - baye@baye.es
+     - 2026-10-30
+     - Enviado
+     - Ingeniería técnica industrial
+
 
    * - **Default**
      - -
