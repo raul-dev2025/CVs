@@ -18,18 +18,6 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
      - Estado
      - Observaciones / Perfil
 
-   * - **Electricitat Boquet, S.L.**
-     - boquet@boquet.cat
-     - 03/05/2025
-     - Entrevista/SR
-     - Dpto. de Selección / Administración
-
-   * - **Ferretería Industrial Suminosa**
-     - administracion@suminosa.es
-     - 2026-10-20
-     - Acuse/En Proceso
-     - Confirmación de recepción recibida (10:39h)
-
    * - **Seidor**
      - rrhh@seidor.es
      - 2026-10-20
