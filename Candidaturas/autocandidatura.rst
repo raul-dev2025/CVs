@@ -13,103 +13,23 @@ Registro y seguimiento sistemático de las candidaturas espontáneas dirigidas a
    :header-rows: 1
 
    * - Nombre Empresa / Organización
+     - Address 
+     - Industry
+     - Location
+     - Postal code
      - Contacto / Correo Electrónico
+     - Notes / Perfil
+     - Telephone
      - Fecha Envío
      - Estado
-     - Observaciones / Perfil
 
-   * - **Seidor**
-     - rrhh@seidor.es
-     - 2026-10-20
-     - Enviado
-     - Perfil SysAdmin / Infraestructuras IT
-
-   * - **Econocom Spain**
-     - candidaturas.es@econocom.com
-     - 2026-10-21
-     - Enviado
-     - Perfil SysAdmin / Infraestructuras IT
-
-   * - **T-Systems Iberia**
-     - FMB_TS_IB_MARCOM@t-systems.com
-     - 2026-10-20
-     - Enviado
-     - Gestión de infraestructuras críticas
-
-   * - **Voxel Group**
-     - info@voxelgroup.net
-     - 2026-10-20
-     - Bloqueado SMT
-     - Infraestructuras y desarrollo (Perfil SysAdmin)
-
-   * - **Cellnex Telecom**
-     - rrhh@cellnextelecom.com
-     - 2026-10-21
-     - Bloqueado SMT
-     - Perfil SysAdmin / Infraestructuras y Telecomunicaciones
-
-   * - **NTT DATA Spain**
-     - Global.careers@nttdata.com
-     - 2026-10-21
-     - Enviado
-     - Perfil SysAdmin / DevOps & Cloud Infrastructure
-
-   * - **SITRA (Logística e Infraestructuras)**
-     - info@sitra.es
-     - 2026-10-22
-     - Enviado
-     - Perfil Otros / Técnico de Aprovisionamiento y Logística
-
-   * - **Sener Ingenieria**
-     - talent-acquisition-team-bmb@seneringenieria.teamtailor-mail.com
-     - 2026-10-22
-     - Enviado
-     - Perfil SysAdmin / Infraestructuras de Ingeniería
-
-   * - **LPR - La Palette Rouge**
-     - info.es@lpr.eu
-     - 2026-10-22
-     - Enviado
-     - Perfil Otros / Aprovisionamiento, Cadena de Suministro y Logística
-
-   * - **Able, human motion**
-     - hello@ablehumanmotion.com
-     - 2026-10-28
-     - Enviado
-     - Exoesqueletos y rehabilitación robótica
-
-   * - **Apeiron Agents**
-     - contact@apeironagents.tech
-     - 2026-10-28
-     - Enviado
-     - DeepTech / Cómputo e Infraestructura Linux
-
-   * - **ARQ Quantum Technologies**
-     - admin@arqtech.eu
-     - 2026-10-28
-     - Enviado
-     - DeepTech / Hardware y Control Linux
-
-   * - **The Balance Phone**
-     - hello@thebalancephone.com
-     - 2026-10-28
-     - No interesado / Cerrado
-     - Sistemas Embebidos / Linux OS / Hardware Minimalista
-
-   * - **Bamboo energy**
-     - admin@bambooenergy.tech
-     - 2026-10-28
-     - Enviado
-     - EnergyTech / Python Backend & Cloud
-
-   * - **Beta Robots**
-     - oriol@beta-robots.com
-     - 2026-10-28
-     - Enviado
-     - Robótica Móvil / Linux Embebido & C
-     
    * - **Default**
-     - --
-     - --
-     - Pendinte
-     - Default Default Default Default Default Default Default
+     - Address 
+     - Industry
+     - Location
+     - Postal code
+     - Contacto / Correo Electrónico
+     - Notes / Perfil
+     - Telephone
+     - Fecha Envío
+     - Estado
